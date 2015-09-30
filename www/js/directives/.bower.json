@@ -1,0 +1,13 @@
+{
+  "name": "directives",
+  "_cacheHeaders": {
+    "ETag": "\"7204f581d132e206621e06ce7163bac22424d429\"",
+    "Content-Length": "149443",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:7204f581d",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/vkarpov15/stopwatch-server-example/master/client/dist/all.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/vkarpov15/stopwatch-server-example/master/client/dist/all.js"
+}

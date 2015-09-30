@@ -1,0 +1,13 @@
+{
+  "name": "templates",
+  "_cacheHeaders": {
+    "ETag": "\"c2c2e72f6f793857a7ca8e367d41a4b5633f705d\"",
+    "Content-Length": "2871",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:c2c2e72f6",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/vkarpov15/stopwatch-server-example/master/client/dist/templates.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/vkarpov15/stopwatch-server-example/master/client/dist/templates.js"
+}
