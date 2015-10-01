@@ -1,6 +1,6 @@
 <ion-view view-title="Timer">
   <ion-content class="padding">
     <h1>Timer</h1>
-    <timer></timer>
+    <timer on-time-saved="$emit('NEW_TIME_SAVED', time)"></timer>
   </ion-content>
 </ion-view>

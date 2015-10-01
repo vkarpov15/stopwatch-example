@@ -1,9 +1,11 @@
 <ion-view view-title="Account">
   <ion-content>
-    <ion-list>
-    <ion-toggle  ng-model="settings.enableFriends">
-        Enable Friends
-    </ion-toggle>
-    </ion-list>
+    <div ng-show="!user.data">
+      <h1 ng-click="facebookLogin()">Log In With Facebook</h1>
+    </div>
+    <div ng-show="user.data">
+      <h1>My Times</h1>
+      <time-list></time-list>
+    </div>
   </ion-content>
 </ion-view>
