@@ -1,5 +1,5 @@
 (function() {
-  var stopwatch = angular.module('stopwatch', ['core', 'templates']);
+  var stopwatch = angular.module('stopwatch', ['core', 'templates', 'ng']);
 
   stopwatch.config(function($httpProvider) {
     $httpProvider.interceptors.push(function() {
